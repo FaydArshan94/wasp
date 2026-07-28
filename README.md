@@ -1,36 +1,136 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🐝 WASP
 
-First, run the development server:
+<p align="center">
+  <img width="1353" height="637" alt="image" src="https://github.com/user-attachments/assets/84ce91f5-36ca-4ad7-b646-391fa6eb315c" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<h3 align="center">
+A modern 3D landing page built with smooth scrolling, immersive animations, and premium UI.
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+## ✨ Overview
+
+**WASP** is a cinematic 3D landing page featuring an interactive Wasp model, buttery smooth scrolling, and premium motion design. It combines modern frontend technologies to deliver a fast, immersive, and visually engaging web experience.
+
+---
+
+## 🚀 Features
+
+* 🐝 Interactive 3D Wasp Model
+* 🎬 Smooth scrolling powered by GSAP
+* ✨ Premium scroll-triggered animations
+* ⚡ High-performance rendering
+* 🎨 Modern UI & Typography
+* 🌙 Clean component architecture
+* 🚀 Optimized for deployment
+
+---
+
+# 📸 Screenshots
+
+## Hero Section
+
+<p align="center">
+<img width="1349" height="557" alt="image" src="https://github.com/user-attachments/assets/f72c2d9e-48e9-4546-921b-1f9e24131ef0" />
+</p>
+
+---
+
+## 3D Model
+
+<p align="center">
+<img width="1353" height="564" alt="image" src="https://github.com/user-attachments/assets/af760631-eb78-42a6-931b-8cc7c0ac054f" />
+</p>
+
+---
+
+## Scroll Animations
+
+<p align="center">
+<img width="1349" height="645" alt="image" src="https://github.com/user-attachments/assets/8d888050-6cc6-4b15-bdba-f76eabf7f781" />
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+| Technology     | Purpose                                         |
+| -------------- | ----------------------------------------------- |
+| React          | UI Library                                      |
+| Three.js       | 3D Rendering                                    |
+| GSAP           | Animations                                      |
+| ScrollTrigger  | Scroll Animations                               |
+| Tailwind CSS   | Styling                                         |
+| Vite / Next.js | Build Tool *(Update according to your project)* |
+
+---
+
+# 📂 Project Structure
+
+```text
+src/
+│
+├── components/
+├── assets/
+├── models/
+├── hooks/
+├── utils/
+├── pages/
+└── App.jsx
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# ⚙️ Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Clone Repository
+git clone https://github.com/yourusername/wasp.git
 
-## Learn More
+# Navigate
+cd wasp
 
-To learn more about Next.js, take a look at the following resources:
+# Install
+npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Run
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 🎯 Performance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Optimized animations
+* GPU accelerated transforms
+* Lazy-loaded assets
+* Responsive rendering
+* Smooth 60 FPS interactions
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 💡 Inspiration
+
+Inspired by modern product landing pages that combine cinematic storytelling with immersive 3D experiences.
+
+---
+
+# ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Fayd Arshan</b>
+</p>
