@@ -1,10 +1,8 @@
 
 # 🐝 WASP
-
 <p align="center">
-  <img width="1353" height="637" alt="image" src="https://github.com/user-attachments/assets/84ce91f5-36ca-4ad7-b646-391fa6eb315c" />
+  <img src="./waspGif.gif" alt="WASP Demo" width="100%" />
 </p>
-
 <h3 align="center">
 A modern 3D landing page built with smooth scrolling, immersive animations, and premium UI.
 </h3>
